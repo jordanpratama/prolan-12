@@ -1,15 +1,22 @@
 
 package mahasiswa;
 
-public abstract class Mahasiswa {
-
-    public String nim ;
-    public String nama ;
+public class Mahasiswa <T> {
     
-    public abstract void kuliah () ;
-    public abstract void lulus();
-    public abstract void tidaklulus();
-      
+    private T nim;
+    
+    public Mahasiswa(T nim) {
+        this.nim = nim;
+      }  
+    
+    public void setnim(T nim){
+        this.nim = nim; 
+       
     }
-    
-
+    public T getnim(){
+        return nim;
+    }
+    public void getType() {
+        System.out.println("Tipe awalnya " + nim.getClass().getName());
+    }
+}
