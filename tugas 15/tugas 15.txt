@@ -1,0 +1,118 @@
+|pertemuan|   Materi    |	penjelasan	 |	github	  	|
+|   	  |  		|			 |			|
+|   1	  | pendahuluan |-pengenalan pada java	 |			|
+|	  |	 	| sebagai pemrograman	 |			|
+| 	  | 		| serta sejarahnya.	 |			|
+|	  |	  	|-Belajar menjalankan 	 |			|
+|	  | 		| java dengan comand 	 |			|
+|	  | 		| prompt menggunakan JDK |			|
+|	  | 		|-Menulis program untuk	 |			|
+|	  | 		| mencetak hello world 	 |			|
+| 	  | 		| dengan system.out.print|			|
+|  	  | 		|			 |			|
+|   2	  | Konsep OOP	|-pengenalan progrm ber- |			|
+|	  | 		| orientasi objek dan	 |			|
+|	  | 		| pola pikir OO.	 |			|
+|	  | 		|-Membandingkan cara pem-|			|
+|	  |		| rograman prosedural vs |			|
+|	  |		| OO			 |			|
+|	  |		|-Belajar input/output	 |			|
+|	  |		| pada java	  	 |			|
+|	  |		|			 |			|
+|   3	  |kelas & objek|-kelas, sebagai cetak	 |			|
+|	  |		| biru objek, memiliki	 |			|
+|	  |		| atribut dan method.	 |			|
+|	  |		|-tipe-tipe data pada	 |			|
+|	  |		| java (short, byte,	 |			|
+|	  |		| int, longint, float,	 |			|
+| 	  |		| double, boolean, char, |			|
+|	  |		| String, calendar	 |			|
+|	  |		|			 |			|
+|   4	  |Method,kons-	|-Method adalah sekumpu	 |	Tugas -4	|
+|	  |traktor, this| lan program atau pro	 |			|
+|	  |atribut	| sedur yg secara bersa	 |			|
+| 	  |		| ma sama melakukan sua	 |			|
+|	  |		| tu task.		 |			|
+| 	  |		|-Method memiliki hubu	 |			|
+|	  |		| ngan dengan objek, di	 |			|
+|	  |		| buat dari data & fungsi|			|
+|	  |		|-parameter merupakan se |			|
+|	  |		| buah data dalam represe|			|
+|	  |		| ntasi variabel yg dise |			|
+|	  |		| matkan di dlm header.	 |			|
+|	  |		|-konstruktor adh sebuah |			|
+|	  |		| prosedur atau aksi yang|			|
+|	  |		| dilakukan ketika konst |			|
+|	  |		| ruktor dipanggil	 |			|
+|	  |		|			 |			|
+|   5	  |Inheritance	|-dapat didefinisikan	 | tugas minggu ke-5	|
+|	  |		| bahwa sebuah kelas	 | latihan minggu ke-4	|
+|	  |		| dapat mengeksekusi	 |			|
+|	  |		| atribut dan fungsi 	 |			|
+|	  |		| dari kelas lain.	 |			|
+|	  |		|-menerapkan konsep	 |			|
+|	  |		| inheritance pada 	 |			|
+|	  |		| kelas utama yang 	 |			|
+|	  |		| telah dibuat		 |			|
+|	  | 		|-mengenal operator arit |			|
+|	  |		| matika, assigment, logi|			|
+|	  |		| ka, relasional, miscel |			|
+|	  |		| laneous pada java	 |			|
+|	  |		|			 |			|
+|   6	  |Overriding	|-Overriding berarti 	 | mahasiswa		|
+|	  |		| isi method yang sudah	 | 			|
+|	  |		| ada di superclass	 |			|
+|	  |		|-membahas modifier pada |			|
+|	  |		| java, yaitu public,	 |			|
+|	  |		| protected, dan private |			|
+|	  |		|			 |			|
+|   7	  |polimorfisme	|-konsep dimana banyak 	 |			|
+|	  |		| kelas	yg memiliki me	 |			|
+|	  |		| thod yang sama 	 |			|
+|	  |		|-kelas tersebut harus 	 |			|
+|	  |		| diturunkan dari sebuah |			|
+|	  |		| kelas abstract	 |			|
+|	  |		|			 |			|
+|   9	  |abstraksi dan|-enkapsulasi adalah	 | muhammad jordan prata|
+|	  |enkapsulasi  | sebuah proses atau 	 | ma-10111058-encapin	|
+|	  |		| mekanisme yang mem	 | tegration/mahasiswa	|
+|	  |		| bungkus data dan fungsi|			|
+|	  |		| dari sebuah kelas menja|			|
+|	  |		| di sebuah unit	 |			|
+|	  |		|-data atau atribur dari |			|
+|	  |		| sebuah kelas hanya dpt |			|
+|	  |		| dibuat read-only(get)	 |			|
+|	  |		| Write-only(set), atau	 |			|
+|	  |		| keduanya(get dan set)	 |			|
+|	  |		|-abstraksi adalah proses|			|
+|	  |		| untuk menyembunyikan 	 |			|
+|	  |		| detil proses yg dila	 |			|
+|	  |		| kukan			 |			|
+|	  |		|-untuk menggunakan kelas|			|
+|	  |		| abstrak, abstrak kelas |			|
+|	  | 		| harus diturunkan pada	 |			|
+|	  |		| kelas lain		 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|
+|	  |		|			 |			|	
